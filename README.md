@@ -23,7 +23,6 @@ This portfolio highlights my work with **modern web technologies** such as React
 - **Glassmorphism + Gradient Accent Styling**  
 - **Project Cards** with live site & GitHub links  
 - **Contact Form** and Social Media integration  
-- **Lightweight Vanilla JS**, no frameworks required  
 
 ---
 
