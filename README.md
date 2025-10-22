@@ -8,7 +8,7 @@ This portfolio highlights my work with **modern web technologies** such as React
 
 ## 🌐 Live Demo
 
-🚀 **View Portfolio:** [https://vijaysinhpatil-portfolio.netlify.app](https://vijaysinhpatil-portfolio.netlify.app)  
+🚀 **View Portfolio:** [https://vijaysinhpatil-portfolio.netlify.app](https://vijaysinhportfolio.netlify.app/)  
 (If you’re viewing locally, open `index.html` in your browser.)
 
 ---
